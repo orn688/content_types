@@ -1,0 +1,6 @@
+MP4 = "video/mp4"
+MPEG = "video/mpeg"
+QUICKTIME = "video/quicktime"
+WEBM = "video/webm"
+X_MSVIDEO = "video/x-msvideo"
+X_SGI_MOVIE = "video/x-sgi-movie"

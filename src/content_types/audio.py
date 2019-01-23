@@ -1,0 +1,5 @@
+BASIC = "audio/basic"
+MPEG = "audio/mpeg"
+X_AIFF = "audio/x-aiff"
+X_PN_REALAUDIO = "audio/x-pn-realaudio"
+X_WAV = "audio/x-wav"
